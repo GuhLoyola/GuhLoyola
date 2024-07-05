@@ -22,13 +22,18 @@
  </div>
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html5&logoColor=23E34F26)
+![CSS3](https://img.shields.io/badge/css-0D1117?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=23007ACC)
+![React](https://img.shields.io/badge/react.js-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/express.js-0D1117?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=23316192)
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
+![React](https://img.shields.io/badge/react.js-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
